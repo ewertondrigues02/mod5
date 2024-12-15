@@ -16,6 +16,6 @@ Este repositório contém os projetos e exercícios desenvolvidos durante o curs
 
 ## Estrutura do Repositório
 
-O repositório é dividido em diferentes pastas, cada uma contendo os projetos ou módulos abordados nas aulas do curso. A estrutura básica é a seguinte:
+O repositório é dividido em diferentes pastas, cada uma contendo os projetos ou módulos abordados nas aulas do curso. 
 
 
