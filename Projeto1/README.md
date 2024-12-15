@@ -32,7 +32,7 @@ O foco principal do projeto foi criar um sistema funcional com:
 1. Certifique-se de que o **JDK 21** está instalado no seu sistema.
 2. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/projeto-1.git
+   git clone https://github.com/ewertondrigues02/projeto-1.git
    ```
 3. Importe o projeto em sua IDE favorita (**IntelliJ IDEA** ou **NetBeans**).
 4. Compile e execute o arquivo principal (**Main.java**).
