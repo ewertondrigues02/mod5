@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/exception-tratamento.iml" filepath="$PROJECT_DIR$/exception-tratamento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/anotations-tabela.iml" filepath="$PROJECT_DIR$/anotations-tabela.iml" />
     </modules>
   </component>
 </project>
