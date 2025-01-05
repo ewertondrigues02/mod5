@@ -1,6 +1,4 @@
-Aqui está o arquivo `README.md` modificado para o GitHub, pronto para ser adaptado ao seu repositório:
 
-```markdown
 # Sistema de Gerenciamento de Carros, Clientes, Produtos e Vendas
 
 Bem-vindo ao repositório do Sistema de Gerenciamento de Carros, Clientes, Produtos e Vendas! Este projeto foi desenvolvido em **Java** utilizando a **Java Persistence API (JPA)** para persistência de dados, com uma arquitetura baseada em **DAO (Data Access Object)** para simplificar operações de **CRUD (Create, Read, Update, Delete)**.
@@ -38,11 +36,11 @@ Bem-vindo ao repositório do Sistema de Gerenciamento de Carros, Clientes, Produ
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu_usuario/nome_do_repositorio.git
+   git clone https://github.com/ewertondrigues02/tarefas-ebac.git
    ```
 2. Navegue até o diretório do projeto:
    ```bash
-   cd nome_do_repositorio
+   cd tarefas-ebac
    ```
 3. Configure o banco de dados:
    - Atualize as configurações de conexão no arquivo `persistence.xml`.
@@ -55,15 +53,15 @@ Contribuições são bem-vindas! Para contribuir:
 1. Crie um fork do repositório.
 2. Crie uma nova branch:
    ```bash
-   git checkout -b minha-nova-funcionalidade
+   git checkout -b relacionamento entre tabelas
    ```
 3. Faça suas alterações e commit:
    ```bash
-   git commit -m "Adiciona nova funcionalidade"
+   git commit -m "relacionamento"
    ```
 4. Envie suas alterações:
    ```bash
-   git push origin minha-nova-funcionalidade
+   git push origin relacionamento
    ```
 5. Abra um pull request no repositório original.
 
@@ -73,10 +71,7 @@ Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](L
 
 ---
 
-Feito com ❤️ por [Seu Nome](https://github.com/seu_usuario).
+Feito com ❤️ por [Ewerton Rodrigues](https://github.com/ewertondrigues02).
 ```
 
-### Adaptações:
-- Substitua `seu_usuario` pelo seu nome de usuário do GitHub.
-- Atualize `nome_do_repositorio` para o nome real do seu repositório.
-- Personalize o texto conforme necessário para melhor descrever o seu projeto.
+
