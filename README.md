@@ -1,21 +1,59 @@
-# Especialista Backend Java - EBAC
+## Olá, meu nome é {seu nome}!
 
-Este repositório contém os projetos e exercícios desenvolvidos durante o curso *Especialista Backend Java* da EBAC (Escola Britânica de Artes Criativas e Tecnologia). O curso tem como objetivo proporcionar uma compreensão sólida dos principais conceitos e tecnologias para o desenvolvimento de soluções backend em Java.
+### ⚙️ GitHub Analytics
 
-## Tecnologias Utilizadas
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dark&hide_border=false&include_all_commits=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=iuricode&theme=dark&hide_border=false"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
 
-- **Java 17+**: A linguagem de programação principal do curso.
-- **Spring Boot**: Framework para desenvolvimento de aplicações Java, facilitando a criação de APIs RESTful.
-- **Spring Data JPA**: Para integração com bancos de dados e manipulação de dados de forma eficiente.
-- **PostgreSQL**: Banco de dados relacional utilizado para armazenar dados.
-- **Flyway**: Ferramenta para migração e versionamento de banco de dados.
-- **Docker**: Contêineres para desenvolvimento e execução de ambientes isolados.
-- **JUnit 5**: Framework para testes unitários e de integração.
-- **Maven**: Gerenciador de dependências e construção de projetos.
-- **Git**: Controle de versão e colaboração no desenvolvimento.
+--- 
 
-## Estrutura do Repositório
+### 🏆 GitHub Profile Trophy
 
-O repositório é dividido em diferentes pastas, cada uma contendo os projetos ou módulos abordados nas aulas do curso. 
+<p align="center">
+  <a
+    href="https://github.com/ryo-ma/github-profile-trophy"
+    title="repositório de troféus"
+  >
+    <img
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=iuricode&column=8&theme=darkhub&no-frame=true&no-bg=true"
+    />
+  </a>
+</p>
 
+---
 
+<div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/iuricode/count.svg"
+    alt="Número de visitantes no perfil"
+  />
+</p>
