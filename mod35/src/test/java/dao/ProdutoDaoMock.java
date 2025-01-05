@@ -1,7 +1,6 @@
 package dao;
 
 import br.com.ewerton.dao.IProdutoDAO;
-import br.com.ewerton.domain.Cliente;
 import br.com.ewerton.domain.Produto;
 import br.com.ewerton.exceptions.TipoChaveNaoEncontradaException;
 
@@ -41,7 +40,7 @@ public class ProdutoDaoMock implements IProdutoDAO {
     }
 
     @Override
-    public Boolean salvar(Cliente produto) {
+    public Boolean salvar(Produto produto) {
         return null;
     }
 
