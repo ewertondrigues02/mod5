@@ -1,0 +1,15 @@
+unnamed package
+br.com.ewerton
+br.com.ewerton.anotacao
+br.com.ewerton.dao
+br.com.ewerton.dao.factory
+br.com.ewerton.dao.generic
+br.com.ewerton.dao.generic.jdbc
+br.com.ewerton.dao.generic.jpa
+br.com.ewerton.domain
+br.com.ewerton.domain.jpa
+br.com.ewerton.exceptions
+br.com.ewerton.service
+br.com.ewerton.service.generic
+br.com.ewerton.service.jpa
+dao
