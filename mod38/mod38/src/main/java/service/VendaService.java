@@ -4,6 +4,7 @@ import dao.IVendaDAO;
 import domain.Venda;
 import exceptions.DAOException;
 import exceptions.TipoChaveNaoEncontradaException;
+import services.GenericService;
 
 import javax.ejb.Stateless;
 import javax.inject.Inject;
@@ -38,7 +39,7 @@ public class VendaService extends GenericService<Venda, Long> implements IVendaS
 
     @Override
     public Venda cadastrar(Venda entity) throws TipoChaveNaoEncontradaException, DAOException {
-        entity.setStatus(Status.INICIADA);
+        entity.setStatus(Venda.Status.INICIADA);
         return super.cadastrar(entity);
     }
 
